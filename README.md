@@ -5,8 +5,11 @@ CurveRender
 
 Input a 2D curve via Mouse to generate a 3D wireframe/solid Object.
 
-##Usage
+##Install
+* Download and Unzip CurveRender v1.1 
+* Note: freeglut.dll must be in same dir as binary
 
+##Usage
 2D Window Controls:
 * Mouse Left Click - Set/Remove Control Points
 * +/- - Increase the number of Control Points 
