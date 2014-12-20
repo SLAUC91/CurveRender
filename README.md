@@ -18,3 +18,5 @@ Input a 2D curve via Mouse to generate a 3D wireframe/solid Object.
 * +/- - Increase the degree of courseness
 * Space - Alternate Wireframe/Solid
 
+##Dependency
+This program is dependent on freeGlut to run so make sure you have the proper libraries.
