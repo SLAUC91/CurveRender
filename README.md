@@ -16,7 +16,7 @@ Input a 2D curve via Mouse to generate a 3D wireframe/solid Object.
 * Space - Change between curves (Open, Bezier, Closed)
 
 3D Window Controls:
-* Mouse Left Click - Panning
+* Mouse Left Click - Rotation
 * Mouse Middle Button - Zoom (Click, Drag Mouse)
 * +/- - Increase the degree of courseness
 * Space - Alternate Wireframe/Solid
